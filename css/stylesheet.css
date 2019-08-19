@@ -18,3 +18,10 @@ h1 {
   text-align: right;
 }
 
+@media only screen and (max-width: 992px){
+  .radio-inline+ .radio-inline {
+    display: block;
+    margin: 0;
+  }
+}
+/* inportantはあまり使いすぎない最後の手段として使う方が良い */

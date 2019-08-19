@@ -14,3 +14,6 @@ HTMLを`.container`で囲うことで、ページ全体をレスポンシブ対�
 公式サイトに説明があるのでか分からなくなったときには確認すること  
 公式URL  
 https://getbootstrap.com/docs/3.4/css/
+
+### ラジオボタンを横並びで使いたいとき
+bootstrapのInline checkboxes and radiosを使う`.radio-inline`
