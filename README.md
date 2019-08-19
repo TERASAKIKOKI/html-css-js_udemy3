@@ -1,12 +1,12 @@
 # html-css-js_udemy3
 
-##概要
+## 概要
 この講座ではbootstrapを使ってレスポンシブ対応したアンケートフォームを作成します  
 
 動画URL  
 https://www.udemy.com/html-css-js/
 
-##学習メモ
+## 学習メモ
 動画で学んだとことに関するメモ  
 
 ### bootstrap .containerについて
